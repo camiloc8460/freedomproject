@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.navbar-collapse{
+    text-align:center;
+}
+
+.home {
+    border-style :solid;
+    padding:10px;
+    background:#7AAff5;
+}
+
+.center {
+    text-align:center;
+}
+
+.home-row {
+    border-style:solid;
+    background-color:#F5C07A;
+}
+
+.col {
+    padding:10px;
+    margin:10px;
+}
+
+.padding{
+    padding:10px;
+}
+
+.margin {
+    margin:5px;
+}
+
+.center {
+    text-align:center;
+}
+
+body {
+    background:#F5C07A;
+    color:white;
+}
+
+.card {
+    background:#F5C07A;
+}
+
+.modal-body , .modal-title{
+    color:black;
+}
+
+#info {
+    display: flex;
+    justify-content: center;
+}
+
+#testimonials {
+    display: flex;
+    justify-content: space-around;
+}
+
+/*Responsive Web Design*/
+
+@media (min-width: 768px) {
+    .tablet {
+       font-size:30px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .tablet {
+        font-size:20px;
+    }
+}
+
+
