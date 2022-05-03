@@ -1,5 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
+h1 {
+    color: white;
+    background-color: black;
+}
+
+br {
+    color: white;
+    background-color: black;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
 .navbar-collapse{
     text-align:center;
 }
@@ -36,10 +52,7 @@
     text-align:center;
 }
 
-body {
-    background:#F5C07A;
-    color:white;
-}
+
 
 .card {
     background:#F5C07A;
